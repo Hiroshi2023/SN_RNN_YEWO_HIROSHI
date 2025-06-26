@@ -21,6 +21,8 @@ from email.message import EmailMessage
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
+st.set_page_config(layout="wide")
+
 SENDER_EMAIL = os.environ.get("EMAIL_USER")
 SENDER_PASSWORD = os.environ.get("EMAIL_PASS")
 
