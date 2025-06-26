@@ -1,0 +1,12 @@
+matplotlib
+neuralprophet
+numpy
+pandas
+python-dotenv
+scikit_learn
+streamlit
+streamlit_lottie
+streamlit_option_menu
+torch
+yfinance
+pathlib
